@@ -1,6 +1,7 @@
 # PictureInPicture
 
-Watch video content anywhere on the screen while browsing the web or using an application.
+Watch video content anywhere on the screen while browsing the web using chrome.
+(Desktop Only)
 
 https://nasserben.github.io/PictureInPicture/
 
